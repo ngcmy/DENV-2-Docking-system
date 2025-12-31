@@ -1,0 +1,16 @@
+receptor = NS5 RdRp.pdbqt
+ligand = ligand.pdbqt
+
+center_x = -18.38
+center_y = -53.21
+center_z = -46.77
+
+size_x = 48
+size_y = 40
+size_z = 52
+
+energy_range = 4
+exhaustiveness = 8
+num_modes = 10
+spacing = 0.375
+seed = 42
