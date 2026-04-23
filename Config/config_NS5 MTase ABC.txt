@@ -1,0 +1,15 @@
+receptor = 2P1D_apo_prep.pdbqt
+
+center_x = -6.939
+center_y = 85.390
+center_z = 18.593
+
+size_x = 22
+size_y = 24
+size_z = 26
+
+energy_range = 8
+exhaustiveness = 32
+num_modes = 10
+spacing = 0.375
+seed = 42
