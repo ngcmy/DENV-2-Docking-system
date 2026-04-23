@@ -1,4 +1,4 @@
-receptor = protein.pdbqt
+receptor = NS2B-NS3.pdbqt
 
 center_x = -13.071
 center_y = -9.506
