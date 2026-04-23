@@ -1,4 +1,4 @@
-receptor = 2P1D_apo_prep.pdbqt
+receptor = NS5 MTase.pdbqt
 
 center_x = -6.939
 center_y = 85.390
