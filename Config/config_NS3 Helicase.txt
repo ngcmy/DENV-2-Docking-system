@@ -1,0 +1,15 @@
+receptor = reference_NS3 Helicase.pdbqt
+
+center_x = 38.18
+center_y = 38.47
+center_z = 30.90
+
+size_x = 14
+size_y = 18
+size_z = 16
+
+spacing = 0.375
+
+num_modes = 10
+exhaustiveness = 32
+seed = 42
