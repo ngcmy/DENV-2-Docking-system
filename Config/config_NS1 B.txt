@@ -1,4 +1,4 @@
-receptor = reference_NS1.pdbqt
+receptor = NS1.pdbqt
 
 size_x = 18
 size_y = 18
