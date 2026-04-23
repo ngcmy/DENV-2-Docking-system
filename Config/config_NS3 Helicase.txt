@@ -1,4 +1,4 @@
-receptor = reference_NS3 Helicase.pdbqt
+receptor = NS3 Helicase.pdbqt
 
 center_x = 38.18
 center_y = 38.47
