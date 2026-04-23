@@ -1,0 +1,14 @@
+receptor = reference_NS1.pdbqt
+
+size_x = 18
+size_y = 18
+size_z = 14
+
+center_x = 66.50
+center_y = 80.18
+center_z = 61.38
+
+exhaustiveness = 32
+num_modes = 10
+spacing = 0.375
+seed = 42
