@@ -1,4 +1,4 @@
-receptor = NS5 MTase.pdbqt
+receptor = NS5_MTase.pdbqt
 
 center_x = -6.939
 center_y = 85.390
