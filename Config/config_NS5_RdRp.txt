@@ -1,4 +1,4 @@
-receptor = NS5 RdRp.pdbqt
+receptor = NS5_RdRp.pdbqt
 
 center_x = -21.32
 center_y = -31.27
