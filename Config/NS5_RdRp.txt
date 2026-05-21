@@ -11,5 +11,5 @@ size_z = 20
 spacing = 0.375
 
 num_modes = 10
-exhaustiveness = 32
+exhaustiveness = 8
 seed = 42
