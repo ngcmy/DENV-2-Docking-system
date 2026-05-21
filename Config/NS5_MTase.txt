@@ -8,8 +8,7 @@ size_x = 22
 size_y = 24
 size_z = 26
 
-energy_range = 8
-exhaustiveness = 32
+exhaustiveness = 8
 num_modes = 10
 spacing = 0.375
 seed = 42
