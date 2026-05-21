@@ -8,7 +8,7 @@ center_x = 66.50
 center_y = 80.18
 center_z = 61.38
 
-exhaustiveness = 32
+exhaustiveness = 8
 num_modes = 10
 spacing = 0.375
 seed = 42
